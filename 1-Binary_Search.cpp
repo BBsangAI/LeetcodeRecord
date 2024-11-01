@@ -64,4 +64,6 @@ int main()
     int target = 0; 
     int result = S.Solution(nums, target);
     cout<<"result:"<<result<<endl;
+
+    return 0;
 }
